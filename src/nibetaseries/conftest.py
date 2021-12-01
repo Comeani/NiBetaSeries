@@ -78,7 +78,7 @@ deriv_regressor_entities = {
     "task": "waffles",
     "run": 1,
     "description": "confounds",
-    "suffix": "regressors",
+    "suffix": "timeseries",
     "extension": "tsv",
 }
 deriv_regressor_fname = build_path(deriv_regressor_entities, deriv_patterns)
